@@ -1,0 +1,11 @@
+,total,expected,hits,Raw p,Holm p,FDR
+Histidine metabolism,16,0.24,1,0.215,1,1
+Pantothenate and CoA biosynthesis,19,0.285,1,0.251,1,1
+Selenocompound metabolism,20,0.299,1,0.262,1,1
+Pyruvate metabolism,22,0.329,1,0.284,1,1
+Propanoate metabolism,23,0.344,1,0.295,1,1
+"Alanine, aspartate and glutamate metabolism",28,0.419,1,0.347,1,1
+Pyrimidine metabolism,39,0.584,1,0.449,1,1
+"Valine, leucine and isoleucine degradation",40,0.599,1,0.457,1,1
+Aminoacyl-tRNA biosynthesis,48,0.719,1,0.521,1,1
+Purine metabolism,65,0.973,1,0.633,1,1
